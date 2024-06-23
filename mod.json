@@ -1,0 +1,17 @@
+{
+	"geode": "3.0.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "bingy3.auto_delete",
+	"name": "Auto delete",
+	"version": "v1.0.0",
+	"developer": "Bingy3",
+	"description": "Deletes levels automaticly after exiting the level page.",
+	"tags": [
+		"enhancement"
+	]
+}
